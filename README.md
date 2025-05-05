@@ -7,3 +7,5 @@ Once again, I sincerely appreciate this opportunity and am committed to giving m
 
 Best regards,
 Bappa Bairagya
+
+link- https://inventory-zen-project-kappa.vercel.app/
